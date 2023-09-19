@@ -32,8 +32,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  ❤️ &emsp; Passionate about writing code to solve real-world problems<br/><br/>
- 🎓 &emsp; Always learning, dedicated to having a deep understanding of a wide range of skills
- 🎸 &emsp; Practicing guitar and writing shoegaze/indie-rock in my spare time 
+ 🎓 &emsp; Always learning, dedicated to having a deep understanding of a wide range of skills<br/><br/>
+ 🎸 &emsp; Practicing guitar and writing shoegaze/indie-rock in my spare time <br/><br/>
  📧 &emsp; Reach me anytime: jordancdiaz2004@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/JrodanDiaz/JrodanDiaz/issues)
 
