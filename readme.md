@@ -3,7 +3,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi!, I'm
-                <b><a target="_blank">Jordan Diaz</a></b>
+                <b><a>Jordan Diaz</a></b>
         </samp>
 </h3>
 
