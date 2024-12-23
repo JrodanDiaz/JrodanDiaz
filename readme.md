@@ -35,7 +35,6 @@
  🎓 &emsp; Always learning, dedicated to having a deep understanding of a wide range of skills<br/><br/>
  🎸 &emsp; Practicing guitar and writing shoegaze/indie-rock in my spare time <br/><br/>
  📧 &emsp; Reach me anytime: jordancdiaz2004@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/JrodanDiaz/JrodanDiaz/issues)
 
 </p>
 
